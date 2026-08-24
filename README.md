@@ -107,30 +107,6 @@ Building modern web applications with:
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pandeyaditya0022ee&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pandeyaditya0022ee&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pandeyaditya0022ee&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 🎯 2026 Goals
 
 * [ ] 🚀 Build production-ready full-stack applications
