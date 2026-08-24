@@ -34,13 +34,13 @@
 ### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,fastapi,tailwind,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi" />
 </p>
 
 ### 🤖 AI / ML
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 **Currently exploring:**
@@ -49,7 +49,7 @@
 ### 🗄️ Database & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode" />
 </p>
 
 ---
