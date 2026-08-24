@@ -83,18 +83,12 @@ Dynamic Prog.   ██████████░░░░░░░░░░  50
 * 🔎 Semantic search with embeddings
 * 💬 Generates contextual answers using LLMs
 
-**AI Marketing Tools**
-
-* 📊 Campaign intelligence
-* 📝 AI-generated marketing insights
-* 🎯 Landing page optimization
-* ⭐ Review & reputation analysis
 
 ### 🌐 Web Development
 
 Building modern web applications with:
 
-`Django` • `FastAPI` • `React` • `Tailwind CSS` • `REST APIs`
+`Django` • `FastAPI` • `React` • `CSS` • `REST APIs`
 
 ---
 
