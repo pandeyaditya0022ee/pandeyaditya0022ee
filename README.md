@@ -92,17 +92,6 @@ Building modern web applications with:
 
 ---
 
-## 🎯 2026 Goals
-
-* [ ] 🚀 Build production-ready full-stack applications
-* [ ] 🤖 Build advanced AI/RAG applications
-* [ ] 🧠 Improve DSA & competitive programming
-* [ ] 🌐 Become strong in backend development
-* [ ] 🏆 Participate in hackathons
-* [ ] 💼 Get my first major software development internship
-* [ ] 🌟 Contribute to Open Source
-
----
 
 ## 🤝 Let's Connect
 
